@@ -1,0 +1,16 @@
+title : 你好啊
+tagline: Blog Tagline
+author :
+  name : 侯成龙
+  email : 1036362598@qq.com
+  github : username
+  twitter : username
+  feedburner : feedname
+
+navigation :
+  - archive.html
+  - tags.html
+  - categories.html
+  - pages.html
+  - about.md
+  
